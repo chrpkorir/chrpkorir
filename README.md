@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python BootCamp
 
 ![python-logo](python.svg)
@@ -97,3 +98,7 @@ As the Bootcamp is open to anyone, we encourage members of our community, Facebo
 
    [Read More On Contributions](CONTRIBUTING.md)
 
+=======
+chrpkorir
+faythkoko@gmail.com
+>>>>>>> e2a4fe0a1717dd09a487930a3bbdfe752883d8b4
