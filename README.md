@@ -1,2 +1,0 @@
-chrpkorir
-faythkoko@gmail.com
